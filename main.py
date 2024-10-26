@@ -1,6 +1,7 @@
 #!/usr/bin/python3 
 #shebang . interpreter directive
-
+# in vs shell :
+#    . venv /bin/activate
 #  pip install transformers
 # to run from terminal, python3 main.py
 
